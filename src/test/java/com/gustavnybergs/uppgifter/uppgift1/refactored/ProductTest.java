@@ -1,5 +1,6 @@
 package com.gustavnybergs.uppgifter.uppgift1.refactored;
 
+import com.gustavnybergs.uppgifter.uppgift1.models.Product;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
