@@ -1,8 +1,8 @@
-package com.gustavnybergs.uppgifter;
+package com.gustavnybergs.uppgifter.uppgift1;
 
-import com.gustavnybergs.uppgifter.uppgift1.refactored.Discount;
-import com.gustavnybergs.uppgifter.uppgift1.refactored.Product;
-import com.gustavnybergs.uppgifter.uppgift1.refactored.ShoppingCart;
+import com.gustavnybergs.uppgifter.uppgift1.models.Discount;
+import com.gustavnybergs.uppgifter.uppgift1.models.Product;
+import com.gustavnybergs.uppgifter.uppgift1.models.ShoppingCart;
 
 import java.util.Arrays;
 

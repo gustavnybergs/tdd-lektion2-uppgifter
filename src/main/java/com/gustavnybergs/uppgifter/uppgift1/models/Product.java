@@ -1,4 +1,4 @@
-package com.gustavnybergs.uppgifter.uppgift1.refactored;
+package com.gustavnybergs.uppgifter.uppgift1.models;
 
 public class Product {
 
